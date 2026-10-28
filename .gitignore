@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+
+# Configuracoes locais de ferramentas
+.claude/
+
+# Arquivo solto criado por engano (config de SSH)
+C*known_hosts
+
+# Projeto separado, mantido fora deste repositorio
+ProjetoWebPetshop/
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
